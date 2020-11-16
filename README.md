@@ -1,5 +1,5 @@
 ###Gallery Hunt
-##Gallery Hunt is developed using PHP, CSS3, HTML5 and JavaScript.
+Gallery Hunt is developed using PHP, CSS3, HTML5 and JavaScript.
 This is a purely CSS based image gallery that display larger versions of
 thumbnail images dynamically when the mouse hovers over them. A rich
 HTML caption can be added to the enlarged image, and every aspect of the
